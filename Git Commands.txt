@@ -1,0 +1,19 @@
+Git Commands 
+git clone - 
+git status - 
+git commit -m “dc-00: comment” 
+git push
+git --help
+git add .
+git blame
+git checkout 
+git config
+git diff
+git log
+git merge 
+git pull
+git remote
+git reset
+git tag
+git revert 
+git rm
